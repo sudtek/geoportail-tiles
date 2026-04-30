@@ -1,0 +1,16 @@
+geoportail-tiles/
+├── geoportail_tiles.py          # Script principal (v2.0)
+├── gps_to_tiles.py              # Convertisseur GPS → tuiles
+├── requirements.txt             # Dépendances Python
+├── README.md                    # Documentation principale
+├── LICENSE                      # Licence MIT
+├── .gitignore                   # Fichiers à ignorer
+├── setup.sh                     # Installation Linux/Mac
+├── setup.bat                    # Installation Windows
+├── setup_venv.sh                # Installation avec venv (Linux/Mac)
+├── setup_venv.bat               # Installation avec venv (Windows)
+└── archive/                     # Anciennes versions (POC)
+    ├── DL_geoportail_Tuiles_01.py
+    ├── DL_geoportail_Tuiles_test.py
+    ├── JOIN_geoportail_Tuiles_02.py
+    └── METHODOLOGY.md           # Explication de la méthode de découverte

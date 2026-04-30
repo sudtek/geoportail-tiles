@@ -1,0 +1,5 @@
+# Dépendances pour geoportail_tiles.py
+# Installation: pip install -r requirements.txt
+
+requests>=2.25.0,<3.0.0
+Pillow>=8.0.0,<11.0.0
