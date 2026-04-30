@@ -31,7 +31,7 @@ Dans **Chromium/Chrome** (identique sur Brave, Edge, Opera) :
 
 ### 4. Filtrer les tuiles
 
-![28_avril_2026_remonterletemps.ign.fr.jpg](/home/sudrienet/Programmation/scripts/bash/webScript/geoportail-tiles/archive/28_avril_2026_remonterletemps.ign.fr.jpg)
+![28_avril_2026_remonterletemps.ign.fr.jpg](https://github.com/sudtek/geoportail-tiles/blob/d425bacd626f11c5c980cfb63842753bc2a5493a/archive/28_avril_2026_remonterletemps.ign.fr.jpg)
 
 ### 5. Identifier les requêtes WMTS
 
